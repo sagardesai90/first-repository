@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+-Im still not entirely sure what happens when you initialize a repository. 
+-And not sure why I need to do it. 

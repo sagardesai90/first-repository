@@ -2,3 +2,8 @@ What happens when you initialize a repository? Why do you need to do it?
 
 -Im still not entirely sure what happens when you initialize a repository. 
 -And not sure why I need to do it. 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+-staging area is a place where you add files that you intend to push to your git
+-its used for labeling the files that you're getting ready to push
